@@ -23,7 +23,7 @@
 
         <div class="m-auto sm:m-auto text-left w-4/5 block">
             <h2 class="text-3xl font-extrabold text-gray-600">
-                Struggling to be a better web developer?
+                This the league we love ,the best league in the world of football.
             </h2>
             
             <p class="py-8 text-gray-500 text-s">
