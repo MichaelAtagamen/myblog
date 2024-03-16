@@ -3,7 +3,6 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
@@ -14,6 +13,22 @@
     
     <!-- Styles -->
     <link href="{{ mix('css/app.css') }}" rel="stylesheet">
+    <style>
+        /* Premier League-themed styles */
+        .premier-league-header {
+            background-color: #1a78a7; /* Premier League blue */
+        }
+
+        .premier-league-header a {
+            color: #fff;
+        }
+
+        .premier-league-header a:hover {
+            color: #ffd700; /* Premier League gold */
+        }
+
+        /* You can customize the styles further based on your preferences */
+    </style>
 </head>
 <body class="bg-gray-100 h-screen antialiased leading-none font-sans">
     <div id="app">
@@ -24,20 +39,22 @@
                         {{ config('app.name', 'Laravel') }}
                     </a>
                 </div>
-                <nav class="space-x-4 text-gray-300 text-sm sm:text-base">
+                <nav class="mx-auto space-x-4 text-gray-300 text-sm sm:text-base">
                     <a class="no-underline hover:underline" href="/">Home</a>
                     <a class="no-underline hover:underline" href="/blog">Blog</a>
+                    <a class="no-underline hover:underline" href="/premierleague">Premier League</a>
+                    <a class="no-underline hover:underline" href="/about">About</a>
+                    <a class="no-underline hover:underline" href="/contact">Contact</a>
                     @guest
                         <a class="no-underline hover:underline" href="{{ route('login') }}">{{ __('Login') }}</a>
                         @if (Route::has('register'))
                             <a class="no-underline hover:underline" href="{{ route('register') }}">{{ __('Register') }}</a>
                         @endif
                     @else
-                        <span>{{ Auth::user()->name }}</span>
-
+                        <a href="{{ route('dashboard') }}" class="no-underline hover:underline">{{ Auth::user()->name }}</a>
                         <a href="{{ route('logout') }}"
-                           class="no-underline hover:underline"
-                           onclick="event.preventDefault();
+                            class="no-underline hover:underline"
+                            onclick="event.preventDefault();
                                 document.getElementById('logout-form').submit();">{{ __('Logout') }}</a>
                         <form id="logout-form" action="{{ route('logout') }}" method="POST" class="hidden">
                             {{ csrf_field() }}

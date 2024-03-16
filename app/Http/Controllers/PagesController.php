@@ -10,4 +10,21 @@ class PagesController extends Controller
     {
         return view('index');
     }
+
+    public function about()
+    {
+        return view('pages.about');
+    }
+
+    public function premierleague()
+    {
+        return view('pages.premierleague');
+    }
+
+    public function contact()
+    {
+        return view('pages.contact');
+    }
+
+
 }
