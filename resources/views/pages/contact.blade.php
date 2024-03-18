@@ -6,11 +6,9 @@
         <div class="flex text-gray-100 pt-10">
             <div class="m-auto pt-4 pb-16 sm:m-auto w-4/5 block text-center">
                 <h1 class="sm:text-white text-5xl uppercase font-bold text-shadow-md pb-14">
-                    Contact Us
+                   
                 </h1>
-                <a href="/blog" class="text-center bg-gray-50 text-gray-700 py-2 px-4 font-bold text-xl uppercase">
-                    Read More
-                </a>
+                
             </div>
         </div>
     </div>
@@ -45,36 +43,21 @@
     <!-- Expertise Section -->
     <div class="text-center p-15 bg-black text-white">
         <h2 class="text-2xl pb-5 text-l"> 
-            We're Experts in...
+           Contact Us 
         </h2>
 
         <span class="font-extrabold block text-4xl py-1">
-            Ux Design
+          Now
         </span>
         <span class="font-extrabold block text-4xl py-1">
-            Project Management
+            We Are Here
         </span>
         <span class="font-extrabold block text-4xl py-1">
-            Digital Strategy
+            To Help You
         </span>
         <span class="font-extrabold block text-4xl py-1">
-            Backend Development
+           PL - Premier League
         </span>
-    </div>
-
-    <!-- Blog Section -->
-    <div class="text-center py-15">
-        <span class="uppercase text-s text-gray-400">
-            Blog
-        </span>
-
-        <h2 class="text-4xl font-bold py-10">
-            Recent Posts
-        </h2>
-
-        <p class="m-auto w-4/5 text-gray-500">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque exercitationem saepe enim veritatis, eos temporibus quaerat facere consectetur qui.
-        </p>
     </div>
 
     <!-- PHP Section -->
@@ -82,11 +65,11 @@
         <div class="flex bg-yellow-700 text-gray-100 pt-10">
             <div class="m-auto pt-4 pb-16 sm:m-auto w-4/5 block">
                 <span class="uppercase text-xs">
-                    PHP
+                    Contact
                 </span>
 
                 <h3 class="text-xl font-bold py-10">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas necessitatibus dolorum error culpa laboriosam. Enim voluptas earum repudiandae consequuntur ad? Expedita labore aspernatur facilis quasi ex? Nemo hic placeat et?
+                    Feel free to reach out to us for any inquiries, feedback, or support. Our team is here to assist you.
                 </h3>
 
                 <a href="" class="uppercase bg-transparent border-2 border-gray-100 text-gray-100 text-xs font-extrabold py-3 px-5 rounded-3xl">

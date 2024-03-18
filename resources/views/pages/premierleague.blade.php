@@ -139,31 +139,32 @@
    <!-- Team Photos -->
 <div class="mt-10 grid grid-cols-3 gap-4 mx-auto">
     <div>
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/400px-Manchester_United_FC_crest.svg.png" alt="" class="rounded border-2 border-gray-700 mx-auto">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/200px-Manchester_United_FC_crest.svg.png" alt="" class="rounded border-2 border-gray-700 mx-auto">
         <p class="text-gray-500 mt-2">Manchester United</p>
     </div>
     <div>
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/400px-Arsenal_FC.svg.png" alt="" class="rounded border-2 border-gray-700 mx-auto">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/200px-Arsenal_FC.svg.png" alt="" class="rounded border-2 border-gray-700 mx-auto">
         <p class="text-gray-500 mt-2">Arsenal</p>
     </div>
     <div>
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/400px-Manchester_City_FC_badge.svg.png?20180205235525" alt="Manchester City" class="rounded border-2 border-gray-700 mx-auto">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/200px-Manchester_City_FC_badge.svg.png?20180205235525" alt="Manchester City" class="rounded border-2 border-gray-700 mx-auto">
         <p class="text-gray-500 mt-2">Manchester City</p>
     </div>
     <!-- Add three more teams below with the same structure -->
     <div>
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/400px-Liverpool_FC.svg.png" alt="" class="rounded border-2 border-gray-700 mx-auto">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/200px-Liverpool_FC.svg.png" alt="" class="rounded border-2 border-gray-700 mx-auto">
         <p class="text-gray-500 mt-2">Liverpool</p>
     </div>
     <div>
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/400px-Tottenham_Hotspur.svg.png" alt="" class="rounded border-2 border-gray-700 mx-auto">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/200px-Tottenham_Hotspur.svg.png" alt="" class="rounded border-2 border-gray-700 mx-auto">
         <p class="text-gray-500 mt-2">Tottenham</p>
     </div>
     <div>
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Aston_Villa_logo.svg/400px-Aston_Villa_logo.svg.png" alt="" class="rounded border-2 border-gray-700 mx-auto">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Aston_Villa_logo.svg/200px-Aston_Villa_logo.svg.png" alt="" class="rounded border-2 border-gray-700 mx-auto">
         <p class="text-gray-500 mt-2">Aston Villa</p>
     </div>
 </div>
+
 
     <!-- Additional Content -->
     <div class="mt-10 text-center">
@@ -308,6 +309,23 @@
             </tbody>
         </table>
     </div>
+<!-- Author Section -->
+<section class="py-12 bg-gray-100">
+    <div class="container mx-auto">
+        <h2 class="text-3xl font-bold text-center mb-8">About the Author</h2>
+        <div class="flex flex-col items-center border border-gray-300 rounded-lg p-8">
+            <img src="https://images.ps-aws.com/c?url=https%3A%2F%2Fimages.teamtalk.com%2Fcontent%2Fuploads%2F2023%2F09%2F01125425%2Fliverpool-winger-mohamed-salah.jpg" alt="Author" class="rounded-full w-40 h-40 mb-4">
+            <div class="text-center">
+                <h3 class="text-xl font-semibold mb-2">John Smith</h3>
+                <p class="text-gray-700 leading-relaxed">John Smith is the visionary behind the creation of the Premier League. With his passion for football and innovative ideas, he transformed the landscape of English football, bringing excitement and competitiveness to millions of fans worldwide.</p>
+                <p class="text-gray-700 leading-relaxed">His commitment to excellence and dedication to the sport have cemented the Premier League as one of the greatest football leagues in the world.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
 
 </div>
 

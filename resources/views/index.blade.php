@@ -205,7 +205,7 @@
         <div class="border border-gray-300 p-6 rounded-lg flex flex-col">
             <img src="https://wallpapercave.com/wp/wp1830687.jpg" alt="Blog Image" class="rounded-lg mb-4">
             <div>
-                <h3 class="text-xl font-semibold mb-4">Blog Title 1</h3>
+                <h3 class="text-xl font-semibold mb-4">2-1 History Made by The Bulls</h3>
                 <p class="text-gray-600 leading-relaxed">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tristique libero a elit fringilla, vitae ultricies urna fermentum.</p>
                 <a href="#" class="text-blue-500 mt-4 inline-block">Read More</a>
             </div>
@@ -213,7 +213,7 @@
         <div class="border border-gray-300 p-6 rounded-lg flex flex-col">
             <img src="https://wallpapercave.com/wp/wp1830688.jpg" alt="Blog Image" class="rounded-lg mb-4">
             <div>
-                <h3 class="text-xl font-semibold mb-4">Blog Title 2</h3>
+                <h3 class="text-xl font-semibold mb-4">Liverpool Steal The FA Cup</h3>
                 <p class="text-gray-600 leading-relaxed">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tristique libero a elit fringilla, vitae ultricies urna fermentum.</p>
                 <a href="#" class="text-blue-500 mt-4 inline-block">Read More</a>
             </div>
@@ -221,7 +221,7 @@
         <div class="border border-gray-300 p-6 rounded-lg flex flex-col">
             <img src="https://wallpapercave.com/wp/wp1830698.jpg" alt="Blog Image" class="rounded-lg mb-4">
             <div>
-                <h3 class="text-xl font-semibold mb-4">Blog Title 3</h3>
+                <h3 class="text-xl font-semibold mb-4">Top Goal Scorer Sturridge Soars High</h3>
                 <p class="text-gray-600 leading-relaxed">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tristique libero a elit fringilla, vitae ultricies urna fermentum.</p>
                 <a href="#" class="text-blue-500 mt-4 inline-block">Read More</a>
             </div>

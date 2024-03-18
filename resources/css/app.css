@@ -30,7 +30,7 @@
 
 /* About page background */
 .about-background {
-    background-image: url('https://wallpapercave.com/wp/wp1830675.jpg');
+    background-image: url('https://i2-prod.chroniclelive.co.uk/incoming/article18231466.ece/ALTERNATES/s615/1_GettyImages-1179355141.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -40,7 +40,7 @@
 
 /* Contact page background */
 .contact-background {
-    background-image: url('https://wallpapercave.com/wp/wp1830686.jpg');
+    background-image: url('https://www.toyotacenter.com/assets/img/Contact-Us-Slide-ec3f1bd0fd.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -53,3 +53,4 @@
     background-color: #000000;
     background-color: rgb(24, 233, 226(--bg-opacity));
 }
+
