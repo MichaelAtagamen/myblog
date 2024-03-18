@@ -45,13 +45,19 @@
             </div>
             <div class="sm:w-1/2 text-left">
                 <p class="text-gray-500 mb-4">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae enim nec urna bibendum ultrices.
+                    The Premier League, often referred to as the English Premier League (EPL), is the top professional football league in England. Established in 1992, the league replaced the Football League First Division as the highest tier of English football. It operates on a system of promotion and relegation with the English Football League (EFL) and has 20 clubs competing in a season.
                 </p>
                 <p class="text-gray-500 mb-4">
-                    Nullam euismod urna eu ligula euismod, vel maximus metus tincidunt. Sed ut erat eget velit viverra euismod.
+                    The Premier League is one of the most popular and widely watched football leagues globally, with millions of fans following matches both domestically and internationally. Its popularity is attributed to several factors, including the high level of competition, the quality of football played, and the global appeal of its clubs and players.
                 </p>
                 <p class="text-gray-500">
-                    Proin aliquam arcu vel justo efficitur, at euismod quam ultrices. Duis vitae ante at justo aliquam auctor.
+                    Each season, teams compete in a round-robin format, playing a total of 38 matches – 19 home and 19 away. The league operates on a points system, where teams earn three points for a win, one point for a draw, and no points for a loss. At the end of the season, the team with the most points is crowned the champion, while the bottom three teams are relegated to the EFL Championship.
+                </p>
+                <p class="text-gray-500">
+                    Off the field, the Premier League is also a commercial powerhouse, with lucrative broadcasting deals, sponsorships, and merchandising contributing to its financial success. The league's global appeal has helped it expand its reach to audiences around the world, further solidifying its status as one of the premier football competitions on the planet.
+                </p>
+                <p class="text-gray-500">
+                    Off the field, the Premier League is also a commercial powerhouse, with lucrative broadcasting deals, sponsorships, and merchandising contributing to its financial success. The league's global appeal has helped it expand its reach to audiences around the world, further solidifying its status as one of the premier football competitions on the planet.
                 </p>
             </div>
         </div>
@@ -66,13 +72,19 @@
             </div>
             <div class="sm:w-1/2 text-left">
                 <p class="text-gray-500 mb-4">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae enim nec urna bibendum ultrices.
+                    The Premier League boasts some of the world's most famous and successful football clubs, including Manchester United, Liverpool, Arsenal, Chelsea, and Manchester City, among others. These clubs have a rich history of success both domestically and in European competitions like the UEFA Champions League and the UEFA Europa League.
                 </p>
                 <p class="text-gray-500 mb-4">
-                    Nullam euismod urna eu ligula euismod, vel maximus metus tincidunt. Sed ut erat eget velit viverra euismod.
+                    The league is known for its intense rivalries, passionate fanbases, and iconic stadiums. Matches between traditional rivals often attract global attention and are eagerly anticipated by football enthusiasts.
                 </p>
                 <p class="text-gray-500">
-                    Proin aliquam arcu vel justo efficitur, at euismod quam ultrices. Duis vitae ante at justo aliquam auctor.
+                    Off the field, the Premier League is also a commercial powerhouse, with lucrative broadcasting deals, sponsorships, and merchandising contributing to its financial success. The league's global appeal has helped it expand its reach to audiences around the world, further solidifying its status as one of the premier football competitions on the planet.
+                </p>
+                <p class="text-gray-500">
+                    Off the field, the Premier League is also a commercial powerhouse, with lucrative broadcasting deals, sponsorships, and merchandising contributing to its financial success. The league's global appeal has helped it expand its reach to audiences around the world, further solidifying its status as one of the premier football competitions on the planet.
+                </p>
+                <p class="text-gray-500">
+                    Off the field, the Premier League is also a commercial powerhouse, with lucrative broadcasting deals, sponsorships, and merchandising contributing to its financial success. The league's global appeal has helped it expand its reach to audiences around the world, further solidifying its status as one of the premier football competitions on the planet.
                 </p>
             </div>
         </div>
@@ -87,25 +99,23 @@
             <img src="https://wallpapercave.com/wp/wp13562342.jpg" alt="Gallery Image 1" class="w-32 h-32 rounded m-2">
             <img src="https://wallpapercave.com/wp/wp12653095.jpg" alt="Gallery Image 2" class="w-32 h-32 rounded m-2">
             <img src="https://wallpapercave.com/wp/wp9303880.jpg" alt="Gallery Image 3" class="w-32 h-32 rounded m-2">
-            <img src="https://wallpapercave.com/wp/wp9303880.jpg" alt="Gallery Image 3" class="w-32 h-32 rounded m-2">
-            <img src="https://wallpapercave.com/wp/wp9303880.jpg" alt="Gallery Image 3" class="w-32 h-32 rounded m-2">
-            <img src="https://wallpapercave.com/wp/wp9303880.jpg" alt="Gallery Image 3" class="w-32 h-32 rounded m-2">
-            <img src="https://wallpapercave.com/wp/wp9303880.jpg" alt="Gallery Image 3" class="w-32 h-32 rounded m-2">
-            <img src="https://wallpapercave.com/wp/wp9303880.jpg" alt="Gallery Image 3" class="w-32 h-32 rounded m-2">
-            <img src="https://wallpapercave.com/wp/wp9303880.jpg" alt="Gallery Image 3" class="w-32 h-32 rounded m-2">
-            <img src="https://wallpapercave.com/wp/wp9303880.jpg" alt="Gallery Image 3" class="w-32 h-32 rounded m-2">
-            <img src="https://wallpapercave.com/wp/wp9303880.jpg" alt="Gallery Image 3" class="w-32 h-32 rounded m-2">
-            <img src="https://wallpapercave.com/wp/wp9303880.jpg" alt="Gallery Image 3" class="w-32 h-32 rounded m-2">
-            <img src="https://wallpapercave.com/wp/wp9303880.jpg" alt="Gallery Image 3" class="w-32 h-32 rounded m-2">
-            <img src="https://wallpapercave.com/wp/wp9303880.jpg" alt="Gallery Image 3" class="w-32 h-32 rounded m-2">
-            <img src="https://wallpapercave.com/wp/wp9303880.jpg" alt="Gallery Image 3" class="w-32 h-32 rounded m-2">
-            <img src="https://wallpapercave.com/wp/wp9303880.jpg" alt="Gallery Image 3" class="w-32 h-32 rounded m-2">
-            <img src="https://wallpapercave.com/wp/wp9303880.jpg" alt="Gallery Image 3" class="w-32 h-32 rounded m-2">
-            <img src="https://wallpapercave.com/wp/wp9303880.jpg" alt="Gallery Image 3" class="w-32 h-32 rounded m-2">
-            <img src="https://wallpapercave.com/wp/wp9303880.jpg" alt="Gallery Image 3" class="w-32 h-32 rounded m-2">
-            <img src="https://wallpapercave.com/wp/wp9303880.jpg" alt="Gallery Image 3" class="w-32 h-32 rounded m-2">
-            <img src="https://wallpapercave.com/wp/wp9303880.jpg" alt="Gallery Image 3" class="w-32 h-32 rounded m-2">
-            <img src="https://wallpapercave.com/wp/wp9303880.jpg" alt="Gallery Image 3" class="w-32 h-32 rounded m-2">
+            <img src="https://wallpapercave.com/wp/wp6014453.png" alt="Gallery Image 4" class="w-32 h-32 rounded m-2">
+            <img src="https://wallpapercave.com/wp/wp8063261.jpg" alt="Gallery Image 5" class="w-32 h-32 rounded m-2">
+            <img src="https://1000logos.net/wp-content/uploads/2018/06/Tottenham_Hotspur_Logo.png" alt="Gallery Image 6" class="w-32 h-32 rounded m-2">
+            <img src="https://www.logo-designer.co/storage/2016/04/someone-2016-logo-design-aston-villa.png" alt="Gallery Image 7" class="w-32 h-32 rounded m-2">
+            <img src="https://c4.wallpaperflare.com/wallpaper/799/58/330/soccer-west-ham-united-f-c-emblem-logo-hd-wallpaper-preview.jpg" alt="Gallery Image 8" class="w-32 h-32 rounded m-2">
+            <img src="https://w0.peakpx.com/wallpaper/306/538/HD-wallpaper-brighton-hove-albion-football-club-premier-league-brighton-hove-united-kingdom-england-emblem-logo-english-football-club.jpg" alt="Gallery Image 9" class="w-32 h-32 rounded m-2">
+            <img src="https://i.pinimg.com/564x/48/4a/7c/484a7c0cf5f7af885ba3f2e15c0a4130.jpg" alt="Gallery Image 10" class="w-32 h-32 rounded m-2">
+            <img src="https://static.vecteezy.com/system/resources/previews/026/135/455/original/newcastle-united-club-logo-symbol-premier-league-football-abstract-design-illustration-with-black-background-free-vector.jpg" alt="Gallery Image 11" class="w-32 h-32 rounded m-2">
+            <img src="https://images2.alphacoders.com/116/1165531.png" alt="Gallery Image 12" class="w-32 h-32 rounded m-2">
+            <img src="https://i.pinimg.com/originals/69/cb/33/69cb33c1ca3d1c493fa39a684f452d33.png" alt="Gallery Image 13" class="w-32 h-32 rounded m-2">
+            <img src="https://1000logos.net/wp-content/uploads/2018/06/crystal-palace-new-logo.jpg" alt="Gallery Image 14" class="w-32 h-32 rounded m-2">
+            <img src="https://wallpapers.com/images/hd/everton-f-c-emblem-in-blue-0vho3ue1p5qcgt2p.jpg" alt="Gallery Image 15" class="w-32 h-32 rounded m-2">
+            <img src="https://www.logodesignlove.com/images/sports/brentford-club-crest-01.jpg" alt="Gallery Image 16" class="w-32 h-32 rounded m-2">
+            <img src="https://tristonrobinson.files.wordpress.com/2011/01/forest.jpg" alt="Gallery Image 17" class="w-32 h-32 rounded m-2">
+            <img src="https://static.vecteezy.com/system/resources/previews/027/011/214/non_2x/luton-town-club-symbol-logo-premier-league-football-abstract-design-illustration-with-black-background-free-vector.jpg" alt="Gallery Image 18" class="w-32 h-32 rounded m-2">
+            <img src="https://www.isportconnect.com/wp-content/uploads/2023/09/ogImage.png" alt="Gallery Image 19" class="w-32 h-32 rounded m-2">
+            <img src="https://i.pinimg.com/originals/8f/d2/e4/8fd2e42b9c9d88401379c3d67e0f788c.png" alt="Gallery Image 20" class="w-32 h-32 rounded m-2">
             <!-- Add more images as needed -->
         </div>
     </div>
@@ -172,14 +182,14 @@
             <h2 class="text-3xl font-bold mb-6 text-center">History</h2>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div class="border border-gray-300 p-6 rounded-lg flex flex-col">
-                    <img src="history_image.jpg" alt="History Image" class="rounded-lg mb-4">
+                    <img src="https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/4B4F/production/_103797291_pl-split.jpg" alt="History Image" class="rounded-lg mb-4">
                     <div>
                         <h3 class="text-xl font-semibold mb-4">Our Founding Story</h3>
                         <p class="text-gray-600 leading-relaxed">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tristique libero a elit fringilla, vitae ultricies urna fermentum.</p>
                     </div>
                 </div>
                 <div class="border border-gray-300 p-6 rounded-lg flex flex-col">
-                    <img src="milestones_image.jpg" alt="Milestones Image" class="rounded-lg mb-4">
+                    <img src="https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0002/20/thumb_119543_default_news_size_5.jpeg" alt="Milestones Image" class="rounded-lg mb-4">
                     <div>
                         <h3 class="text-xl font-semibold mb-4">Major Milestones</h3>
                         <p class="text-gray-600 leading-relaxed">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tristique libero a elit fringilla, vitae ultricies urna fermentum.</p>
@@ -199,19 +209,19 @@
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div class="border border-gray-300 p-6 rounded-lg">
                     <h3 class="text-xl font-semibold mb-4">Twitter</h3>
-                    <p class="text-gray-600 leading-relaxed">Follow us on Twitter for the latest news and updates: <a href="https://twitter.com/your_twitter_handle" class="text-blue-500" target="_blank">@your_twitter_handle</a></p>
+                    <p class="text-gray-600 leading-relaxed">Follow us on Twitter for the latest news and updates: <a href="https://twitter.com/your_twitter_handle" class="text-blue-500" target="_blank">@PremierLeague</a></p>
                 </div>
                 <div class="border border-gray-300 p-6 rounded-lg">
                     <h3 class="text-xl font-semibold mb-4">Facebook</h3>
-                    <p class="text-gray-600 leading-relaxed">Like our Facebook page and join our community: <a href="https://www.facebook.com/your_facebook_page" class="text-blue-500" target="_blank">Your Facebook Page</a></p>
+                    <p class="text-gray-600 leading-relaxed">Like our Facebook page and join our community: <a href="https://www.facebook.com/your_facebook_page" class="text-blue-500" target="_blank">Premier League</a></p>
                 </div>
                 <div class="border border-gray-300 p-6 rounded-lg">
                     <h3 class="text-xl font-semibold mb-4">Instagram</h3>
-                    <p class="text-gray-600 leading-relaxed">Follow us on Instagram for behind-the-scenes photos and more: <a href="https://www.instagram.com/your_instagram_handle" class="text-blue-500" target="_blank">@your_instagram_handle</a></p>
+                    <p class="text-gray-600 leading-relaxed">Follow us on Instagram for behind-the-scenes photos and more: <a href="https://www.instagram.com/your_instagram_handle" class="text-blue-500" target="_blank">@premierleague</a></p>
                 </div>
                 <div class="border border-gray-300 p-6 rounded-lg">
                     <h3 class="text-xl font-semibold mb-4">LinkedIn</h3>
-                    <p class="text-gray-600 leading-relaxed">Connect with us on LinkedIn for professional updates: <a href="https://www.linkedin.com/company/your_linkedin_page" class="text-blue-500" target="_blank">Your LinkedIn Page</a></p>
+                    <p class="text-gray-600 leading-relaxed">Connect with us on LinkedIn for professional updates: <a href="https://www.linkedin.com/company/your_linkedin_page" class="text-blue-500" target="_blank">PremierLeague</a></p>
                 </div>
             </div>
         </div>

@@ -44,34 +44,34 @@
 
     <div class="text-center p-15 bg-black text-white">
         <h2 class="text-2xl pb-5 text-l"> 
-            I'm an expert in...
+           PL
         </h2>
 
         <span class="font-extrabold block text-4xl py-1">
-            Ux Design
+           The
         </span>
         <span class="font-extrabold block text-4xl py-1">
-            Project Management
+            Premier League
         </span>
         <span class="font-extrabold block text-4xl py-1">
-            Digital Strategy
+           We Are Together
         </span>
         <span class="font-extrabold block text-4xl py-1">
-            Backend Development
+            English League
         </span>
     </div>
 
     <div class="text-center py-15">
         <span class="uppercase text-s text-gray-400">
-            Blog
+            Recent Insights
         </span>
 
         <h2 class="text-4xl font-bold py-10">
-            Recent Posts
+           Premier League History
         </h2>
 
         <p class="m-auto w-4/5 text-gray-500">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque exercitationem saepe enim veritatis, eos temporibus quaerat facere consectetur qui.
+            The Premier League, often referred to as the English Premier League (EPL), is the top professional football league in England. Established in 1992, the league replaced the Football League First Division as the highest tier of English football. It operates on a system of promotion and relegation with the English Football League (EFL) and has 20 clubs competing in a season.
         </p>
     </div>
 
@@ -79,11 +79,11 @@
         <div class="flex bg-yellow-700 text-gray-100 pt-10">
             <div class="m-auto pt-4 pb-16 sm:m-auto w-4/5 block">
                 <span class="uppercase text-xs">
-                    PHP
+                    Insights
                 </span>
 
                 <h3 class="text-xl font-bold py-10">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas necessitatibus dolorum error culpa laboriosam. Enim voluptas earum repudiandae consequuntur ad? Expedita labore aspernatur facilis quasi ex? Nemo hic placeat et?
+                    The Premier League is one of the most popular and widely watched football leagues globally, with millions of fans following matches both domestically and internationally. Its popularity is attributed to several factors, including the high level of competition, the quality of football played, and the global appeal of its clubs and players.
                 </h3>
 
                 <a 
@@ -168,8 +168,8 @@
     <!-- Additional Content -->
     <div class="mt-10 text-center">
         <h3 class="text-2xl font-bold text-gray-700 mb-4">Additional Premier League Insights</h3>
-        <p class="text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla gravida enim, sit amet euismod lectus vestibulum et.</p>
-        <p class="text-gray-500">Sed tincidunt augue nec urna ullamcorper, in dignissim tortor pellentesque. Vivamus quis arcu sed ligula ullamcorper aliquet.</p>
+        <p class="text-gray-500">Each season, teams compete in a round-robin format, playing a total of 38 matches – 19 home and 19 away. The league operates on a points system, where teams earn three points for a win, one point for a draw, and no points for a loss. At the end of the season, the team with the most points is crowned the champion, while the bottom three teams are relegated to the EFL Championship.</p>
+        <p class="text-gray-500">The Premier League boasts some of the world's most famous and successful football clubs, including Manchester United, Liverpool, Arsenal, Chelsea, and Manchester City, among others. These clubs have a rich history of success both domestically and in European competitions like the UEFA Champions League and the UEFA Europa League.</p>
     </div>
 
      <!-- League Table -->

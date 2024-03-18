@@ -5,7 +5,7 @@
 @import "tailwindcss/utilities";
 
 .background-image {
-    background-image: url('https://wallpapercave.com/wp/wp1830658.jpg');
+    background-image: url('https://static.vecteezy.com/system/resources/previews/010/994/363/non_2x/premier-league-logo-symbol-with-name-black-design-england-football-european-countries-football-teams-illustration-with-white-background-free-vector.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -50,6 +50,6 @@
 
 .bg-gray-800 {
     --bg-opacity: 1;
-    background-color: #4a0867;
+    background-color: #000000;
     background-color: rgb(24, 233, 226(--bg-opacity));
 }

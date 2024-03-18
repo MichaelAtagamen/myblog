@@ -16,7 +16,12 @@
     <style>
         /* Premier League-themed styles */
         .premier-league-header {
-            background-color: #1a78a7; /* Premier League blue */
+            background-color: #000000; /* Premier League blue */
+            transition: all 0.3s ease; /* Smooth transition for height change */
+            position: -webkit-sticky; /* Safari */
+            position: sticky; /* Other modern browsers */
+            top: 0; /* Stick to the top of the viewport */
+            z-index: 1000; /* Ensure it's above other elements */
         }
 
         .premier-league-header a {
@@ -32,7 +37,7 @@
 </head>
 <body class="bg-gray-100 h-screen antialiased leading-none font-sans">
     <div id="app">
-        <header class="bg-gray-800 py-6">
+        <header class="bg-gray-800 py-6 premier-league-header">
             <div class="container mx-auto flex justify-between items-center px-6">
                 <div>
                     <a href="{{ url('/') }}" class="text-lg font-semibold text-gray-100 no-underline">
