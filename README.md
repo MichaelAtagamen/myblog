@@ -49,4 +49,5 @@ php artisan migrate
 Do not hesitate to contribute to the project by adapting or adding features ! Bug reports or pull requests are welcome.
 
 ##Screenshots
+![image](https://github.com/MichaelAtagamen/myblog/assets/145561375/2c0c64b6-946a-4b3c-b0a4-142f79cfa8c6)
 
