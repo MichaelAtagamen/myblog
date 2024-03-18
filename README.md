@@ -1,10 +1,6 @@
-## Laravel 8 Complete Blog
+## Premier League Blog
 
 This repository is linked to [this youtube video](https://www.youtube.com/watch?v=HKJDLXsTr8A&t=4710s) where I show you how to create a complete blog in Laravel 8 using best practices.
-
-•	Author: Code With Dary <br>
-•	Twitter: [@codewithdary](https://twitter.com/codewithdary) <br>
-•	Instagram: [@codewithdary](https://www.instagram.com/codewithdary/) <br>
 
 ## Requirements
 •	PHP 7.3 or higher <br>
@@ -58,6 +54,20 @@ This is the landing page of our website dedicated to providing comprehensive inf
 ![image](https://github.com/MichaelAtagamen/myblog/assets/145561375/cf4d7b91-5d02-4170-983d-412ac72723a6)
 
 ![image](https://github.com/MichaelAtagamen/myblog/assets/145561375/b602f5d5-e26c-40f4-9786-eb79a59e97c0)
+
+# Blog Page
+
+Welcome to our blog page, where you can find engaging articles, match analyses, and opinion pieces about the Premier League. Stay updated with top scores, player performances, and team insights through our carefully curated blog posts. Explore the world of football through the lens of our passionate writers and contributors.
+![image](https://github.com/MichaelAtagamen/myblog/assets/145561375/aa5c0119-7560-42be-8b58-2f448b42c369)
+
+![image](https://github.com/MichaelAtagamen/myblog/assets/145561375/4e4291b6-24f1-41b0-be47-2bf2cf279a84)
+
+![image](https://github.com/MichaelAtagamen/myblog/assets/145561375/576e6ca0-01ad-4a51-99d2-993bb1910cf7)
+
+
+
+
+
 
 
 
